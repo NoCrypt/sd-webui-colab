@@ -62,3 +62,4 @@ https://huggingface.co/spaces/NoCrypt/DeepDanbooru_string
 - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - https://rentry.org/voldy
 - https://rentry.org/sdupdates
+- more credits in colab

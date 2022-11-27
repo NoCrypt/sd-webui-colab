@@ -9,7 +9,7 @@ more info: https://rentry.co/nocrypt
 #
 [![](https://i.ibb.co/R0RX65D/New-Project.webp)](https://colab.research.google.com/github/NoCrypt/sd-webui-colab/blob/main/sd_webui_colab.ipynb)
 
-##### Features:
+## Features:
 - ~5 minutes startup time guaranteed.
 - Booru tags suggestions included. (configurable)
 - Supports hypernetworks (w/o fast-stable-diffusion)
@@ -22,7 +22,7 @@ more info: https://rentry.co/nocrypt
 - XFormers to help increasing performance by 1.2x
 - Easily upload your merged model to hugging face
 
-##### Models:
+## Models:
 - Waifu Diffusion + VAE
 - Stable Diffusion V1.5 + VAE
 - Trinart + VAE
@@ -35,7 +35,7 @@ more info: https://rentry.co/nocrypt
 
 
 
-##### Notes
+## Notes
 - I will not include NovelAI to my colab due to legal reason.
 - I'm no longer using fast-stable-diffusion as base because it have a very "hacky" approach to increase performance, thus making me relying on their code, AND need him to fix everytime A1111 breaks something which can take days.
 
